@@ -11,15 +11,19 @@
 
 
 ### Programming Languages  :rocket:
-|<img src="images/Programming_languages/javalogo.png" width=60> | <img 
-src="images/Programming_languages/1024px-Python-logo-notext.svg.png" width=60> |<img 
-src="images/Programming_languages/kotlin_logo.jpg" width=60> | <img 
-src="images/Programming_languages/phplogo.png" width=60> |
-|:---:|:---:|:---:|:---:|
+|<img src="images/Programming_languages/javalogo.png" width=60> &nbsp;&nbsp; <img 
+src="images/Programming_languages/1024px-Python-logo-notext.svg.png" width=60> &nbsp;&nbsp; <img 
+src="images/Programming_languages/kotlin_logo.jpg" width=60>&nbsp;&nbsp;  <img 
+src="images/Programming_languages/phplogo.png" width=60>
+
 
 
 ### Tools :fire:
-| <img src="images/tools/intellij-idea_logo_300x300.png" width=60>| <img src="images/tools/Adobe_Brackets_v0.0.x_icon.png" width=60>|<img src="images/tools/firebase.png" width=60> | <img src="images/tools/25231.svg" width=60> |<img src="images/tools/logo-stable.png" width=60> |
+| <img src="images/tools/intellij-idea_logo_300x300.png" width=60> &nbsp;&nbsp; 
+<img src="images/tools/Adobe_Brackets_v0.0.x_icon.png" width=60>&nbsp;&nbsp; 
+<img src="images/tools/firebase.png" width=60> &nbsp;&nbsp; 
+<img src="images/tools/25231.svg" width=60> &nbsp;&nbsp; 
+<img src="images/tools/logo-stable.png" width=60> 
 #
 
 ![Updesh's github stats](https://github-readme-stats.vercel.app/api?username=KingRovo)
