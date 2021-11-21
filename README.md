@@ -11,10 +11,11 @@
 
 
 ### Programming Languages  :rocket:
-|<img src="images/Programming_languages/javalogo.png" width=60> | <img src="images/Programming_languages/1024px-Python-logo-notext.svg.png" width=60> |
-<img src="images/Programming_languages/kotlin_logo.jpg" width=60> | <img src="images/Programming_languages/logo-html-5.png" width=60> |
+|<img src="images/Programming_languages/javalogo.png" width=60> | 
+<img src="images/Programming_languages/1024px-Python-logo-notext.svg.png" width=60> |
+<img src="images/Programming_languages/kotlin_logo.jpg" width=60> | 
 <img src="images/Programming_languages/phplogo.png" width=60> |
-|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|
 
 
 ### Tools :fire:
@@ -24,9 +25,11 @@
 <img src="images/tools/25231.svg" width=60> |
 <img src="images/tools/logo-stable.png" width=60> |
 
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|
 
-![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=KingRovo)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KingRovo&layout=compact)
+![Updesh's github stats](https://github-readme-stats.vercel.app/api?username=KingRovo)
+#
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KingRovo&layout=compact)
 
 
 ### Connect with me :smiley:
