@@ -19,11 +19,7 @@
 
 
 ### Tools :fire:
-| <img src="images/tools/intellij-idea_logo_300x300.png" width=60>| 
-<img src="images/tools/Adobe_Brackets_v0.0.x_icon.png" width=60>| 
-<img src="images/tools/firebase.png" width=60> | 
-<img src="images/tools/25231.svg" width=60> |
-<img src="images/tools/logo-stable.png" width=60> |
+| <img src="images/tools/intellij-idea_logo_300x300.png" width=60>| <img src="images/tools/Adobe_Brackets_v0.0.x_icon.png" width=60>|<img src="images/tools/firebase.png" width=60> | <img src="images/tools/25231.svg" width=60> |<img src="images/tools/logo-stable.png" width=60> |
 
 |:---:|:---:|:---:|:---:|:---:|
 
@@ -45,4 +41,6 @@
 <a href="https://www.facebook.com/updesh.yadav.5074">
   <img align="left" alt="Updesh Facebook" width="21px" src="images/connect_with_me_images/facebook.svg" />
 </a>
-
+<a href="https://kingrovo.github.io/mysite.github.io/">
+  <img align="left" alt="Updesh" width="21px" src="images/connect_with_me_images/www.svg"  />
+</a>
