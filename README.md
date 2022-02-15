@@ -29,6 +29,7 @@
 <img src="images/tools/mongoCom.png" width=60>&nbsp;&nbsp; &nbsp;&nbsp;
 <img src="images/tools/firebase.png" width=60> &nbsp;&nbsp; &nbsp;&nbsp;
 <img src="images/tools/mysql.png" width=60> &nbsp;&nbsp; &nbsp;&nbsp;
+<img src="images/tools/vs_code.png" width=60> &nbsp;&nbsp; &nbsp;&nbsp;
 <img src="images/tools/postman.png" width=60> 
 #
 
