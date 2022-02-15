@@ -3,10 +3,10 @@
 ### Hlo, I'm Updesh 👋
 ![](https://komarev.com/ghpvc/?username=KingRovo&color=red)
 
-- 🔭 I’m currently working on Spring boot and Android App Developement
-- 🌱 I’m currently learning Kotlin
-- 👯 I’m looking to collaborate on Android and web developement
-- 😄 Pronouns: He/His
+- 🔭 I’m currently working on Spring boot and back-end Development.
+- 🌱 I’m exploring Spring boot in depth.
+- 👯 I’m looking to collaborate on Spring Boot 
+- 😄 Pronouns: He/His.
 
 
 
